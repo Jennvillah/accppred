@@ -1,6 +1,6 @@
 # accppred
 
-By Frederico Schmitt
+By Jennifer Villa
 
 a tool to predict anticancer peptides
 
