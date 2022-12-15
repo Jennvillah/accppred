@@ -1,7 +1,7 @@
 name: acppred
-channels:
-- bioconda
-- conda-forge
+chnnels: 
+  - bioconda
+  - conda-forte 
 dependencies:
   - python=3.8
   - jupyter
@@ -10,5 +10,4 @@ dependencies:
   - pip
   - pip:
     - -r requirements.txt
-
-    
+    - -e .
